@@ -4,7 +4,7 @@ import Login from "./Pages/Login/Login";
 
 function RouteSwitch() {
   return (
-    <BrowserRouter basename="/yemlik">
+    <BrowserRouter basename="/">
       <Routes>
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
