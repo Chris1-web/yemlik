@@ -1,0 +1,8 @@
+.image-container {
+  background-image: url("../../assets/goat-yemlik.jpg");
+  height: 95vh;
+  background-position: center;
+  background-size: cover;
+  width: 80%;
+  border-radius: 5rem;
+}
