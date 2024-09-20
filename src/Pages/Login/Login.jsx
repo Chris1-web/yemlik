@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 import logo from "../../assets/yemlik-logo.jpg";
-import "./login.css";
+import "./Login.css";
 
 function Login() {
   return (
