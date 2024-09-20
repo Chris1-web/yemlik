@@ -4,7 +4,7 @@ import { useState } from "react";
 import { db } from "../../Firebase/Firebase-init";
 import { collection, query, onSnapshot } from "firebase/firestore";
 
-import "./category.css";
+import "./Category.css";
 
 function Category() {
   const { productName } = useParams();
